@@ -1,0 +1,23 @@
+# Apple
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# VScode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IntelliJ
+.idea
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml
+
+# Java
+*.class
